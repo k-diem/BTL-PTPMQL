@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BTL PTPMQL\\LibraryMVC\\LibraryMVC.csproj": {}
+    "D:\\TV_PTPMQL\\BTL-PTPMQL\\LibraryMVC.csproj": {}
   },
   "projects": {
-    "D:\\BTL PTPMQL\\LibraryMVC\\LibraryMVC.csproj": {
+    "D:\\TV_PTPMQL\\BTL-PTPMQL\\LibraryMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BTL PTPMQL\\LibraryMVC\\LibraryMVC.csproj",
+        "projectUniqueName": "D:\\TV_PTPMQL\\BTL-PTPMQL\\LibraryMVC.csproj",
         "projectName": "LibraryMVC",
-        "projectPath": "D:\\BTL PTPMQL\\LibraryMVC\\LibraryMVC.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\BTL PTPMQL\\LibraryMVC\\obj\\",
+        "projectPath": "D:\\TV_PTPMQL\\BTL-PTPMQL\\LibraryMVC.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP TCC\\.nuget\\packages\\",
+        "outputPath": "D:\\TV_PTPMQL\\BTL-PTPMQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\LAPTOP TCC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
